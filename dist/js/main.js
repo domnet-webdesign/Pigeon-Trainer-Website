@@ -11,7 +11,6 @@ $(document).ready(function(){
 
 
 
-
 //------------Carousel---------------------//
 jQuery(document).ready(function () {
     
